@@ -15,6 +15,6 @@ class ChartJsAsset extends AssetBundle
 
     public function init()
     {
-        $this->js = YII_DEBUG ? ['Chart.js'] : ['Chart.min.js'];
+        $this->js = YII_DEBUG ? ['dist/Chart.js'] : ['dist/Chart.min.js'];
     }
 }

@@ -7,7 +7,6 @@
 
 namespace yiier\chartjs;
 
-use frontend\assets\ChartJsAsset;
 use yii\base\InvalidConfigException;
 use yii\base\Widget;
 use yii\helpers\Html;
