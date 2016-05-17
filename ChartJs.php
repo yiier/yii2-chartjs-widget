@@ -60,9 +60,9 @@ class ChartJs extends Widget
     public $data = [];
 
     /**
-     * @var
+     * @var string
      */
-    public $type;
+    public $type = 'line';
 
     /**
      * @throws InvalidConfigException
