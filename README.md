@@ -1,6 +1,6 @@
 ChartJs Widget
 ==============
-ChartJs 2 for Yii2 widget
+[ChartJs 2](http://www.chartjs.org/docs/) for Yii2 widget
 
 Installation
 ------------
@@ -47,4 +47,5 @@ Once the extension is installed, simply use it in your code by  :
              ]
          ]
     ]
-]);?>```
+]);?>
+```
