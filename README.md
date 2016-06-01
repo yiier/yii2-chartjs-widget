@@ -49,3 +49,7 @@ Once the extension is installed, simply use it in your code by  :
     ]
 ]);?>
 ```
+
+Credits
+----------
+[2amigos/yii2-chartjs-widget](https://github.com/2amigos/yii2-chartjs-widget)
