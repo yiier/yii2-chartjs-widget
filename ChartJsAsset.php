@@ -11,7 +11,7 @@ use yii\web\AssetBundle;
 
 class ChartJsAsset extends AssetBundle
 {
-    public $sourcePath = '@bower/chartjs';
+    public $sourcePath = '@bower/chart.js';
 
     public function init()
     {
